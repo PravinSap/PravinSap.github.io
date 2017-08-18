@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Pravin tech blog
+tagline:             'Simple tech blog for simple people'
+description:         'Just a description'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Pravin
+  url:               https://twitter.com/testpc
+  email:             pc123qwe@gmail.com
+
+# Custom vars
+version:             1.0.0
